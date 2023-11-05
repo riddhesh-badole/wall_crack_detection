@@ -1,6 +1,6 @@
 opencv-python-headless==4.7.0.72
 streamlit-image-comparison==0.0.4
-pandas
-ultralytics
+pandas==2.1.1
+ultralytics== 8.0.196
 streamlit==1.23.1
-Pillow
+Pillow==9.5.0
