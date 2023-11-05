@@ -7,7 +7,7 @@ import streamlit as st
 from ultralytics import YOLO
 from streamlit_image_comparison import image_comparison
 
-model = YOLO('crack_detection.pt')
+model = YOLO('crack_model.pt')
 
 st.title("Crack detection for walls")
 st.subheader("Implementing for Image Segmentation and Object Detection")
